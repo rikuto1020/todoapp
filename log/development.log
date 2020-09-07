@@ -149,3 +149,1049 @@ Processing by MessagesController#index as HTML
 Completed 200 OK in 3550ms (Views: 3540.6ms | ActiveRecord: 0.0ms | Allocations: 2452994)
 
 
+Started GET "/" for ::1 at 2020-09-06 20:58:34 +0900
+  [1m[35m (0.3ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.haml within layouts/application
+  Rendered messages/_top.html.haml (Duration: 7.0ms | Allocations: 2348)
+  Rendered messages/_side.html.haml (Duration: 4.3ms | Allocations: 1352)
+  Rendered messages/_main.html.haml (Duration: 11.1ms | Allocations: 1351)
+  Rendered messages/_under.html.haml (Duration: 4.0ms | Allocations: 1351)
+  Rendered messages/index.html.haml within layouts/application (Duration: 40.0ms | Allocations: 9094)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 116ms (Views: 113.3ms | ActiveRecord: 0.0ms | Allocations: 22975)
+
+
+Started GET "/" for ::1 at 2020-09-06 20:58:35 +0900
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.haml within layouts/application
+  Rendered messages/_top.html.haml (Duration: 0.1ms | Allocations: 11)
+  Rendered messages/_side.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_main.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_under.html.haml (Duration: 0.1ms | Allocations: 9)
+  Rendered messages/index.html.haml within layouts/application (Duration: 2.1ms | Allocations: 323)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 19ms (Views: 17.4ms | ActiveRecord: 0.0ms | Allocations: 11153)
+
+
+Started GET "/" for ::1 at 2020-09-06 20:58:35 +0900
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.haml within layouts/application
+  Rendered messages/_top.html.haml (Duration: 0.1ms | Allocations: 11)
+  Rendered messages/_side.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_main.html.haml (Duration: 0.1ms | Allocations: 9)
+  Rendered messages/_under.html.haml (Duration: 0.1ms | Allocations: 9)
+  Rendered messages/index.html.haml within layouts/application (Duration: 1.3ms | Allocations: 322)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 16ms (Views: 15.2ms | ActiveRecord: 0.0ms | Allocations: 11134)
+
+
+Started GET "/" for ::1 at 2020-09-06 20:58:35 +0900
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.haml within layouts/application
+  Rendered messages/_top.html.haml (Duration: 0.1ms | Allocations: 11)
+  Rendered messages/_side.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_main.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_under.html.haml (Duration: 0.1ms | Allocations: 9)
+  Rendered messages/index.html.haml within layouts/application (Duration: 0.9ms | Allocations: 322)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 15ms (Views: 14.6ms | ActiveRecord: 0.0ms | Allocations: 11136)
+
+
+Started GET "/" for ::1 at 2020-09-06 20:58:36 +0900
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.haml within layouts/application
+  Rendered messages/_top.html.haml (Duration: 0.1ms | Allocations: 11)
+  Rendered messages/_side.html.haml (Duration: 0.1ms | Allocations: 9)
+  Rendered messages/_main.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_under.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/index.html.haml within layouts/application (Duration: 1.0ms | Allocations: 322)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 17ms (Views: 16.5ms | ActiveRecord: 0.0ms | Allocations: 11136)
+
+
+Started GET "/" for ::1 at 2020-09-06 20:58:36 +0900
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.haml within layouts/application
+  Rendered messages/_top.html.haml (Duration: 0.1ms | Allocations: 11)
+  Rendered messages/_side.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_main.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_under.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/index.html.haml within layouts/application (Duration: 0.9ms | Allocations: 323)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 16ms (Views: 15.2ms | ActiveRecord: 0.0ms | Allocations: 11137)
+
+
+Started GET "/" for ::1 at 2020-09-06 20:58:36 +0900
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.haml within layouts/application
+  Rendered messages/_top.html.haml (Duration: 0.1ms | Allocations: 11)
+  Rendered messages/_side.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_main.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_under.html.haml (Duration: 0.1ms | Allocations: 9)
+  Rendered messages/index.html.haml within layouts/application (Duration: 1.0ms | Allocations: 322)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 30ms (Views: 28.8ms | ActiveRecord: 0.0ms | Allocations: 11126)
+
+
+Started GET "/" for ::1 at 2020-09-06 20:58:36 +0900
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.haml within layouts/application
+  Rendered messages/_top.html.haml (Duration: 0.0ms | Allocations: 11)
+  Rendered messages/_side.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_main.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_under.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/index.html.haml within layouts/application (Duration: 0.7ms | Allocations: 322)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 17ms (Views: 16.2ms | ActiveRecord: 0.0ms | Allocations: 11148)
+
+
+Started GET "/" for ::1 at 2020-09-06 20:58:36 +0900
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.haml within layouts/application
+  Rendered messages/_top.html.haml (Duration: 0.1ms | Allocations: 11)
+  Rendered messages/_side.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_main.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_under.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/index.html.haml within layouts/application (Duration: 0.7ms | Allocations: 322)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 16ms (Views: 15.2ms | ActiveRecord: 0.0ms | Allocations: 11138)
+
+
+Started GET "/" for ::1 at 2020-09-06 20:58:36 +0900
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.haml within layouts/application
+  Rendered messages/_top.html.haml (Duration: 0.0ms | Allocations: 11)
+  Rendered messages/_side.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_main.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_under.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/index.html.haml within layouts/application (Duration: 0.7ms | Allocations: 322)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 15ms (Views: 14.7ms | ActiveRecord: 0.0ms | Allocations: 11150)
+
+
+Started GET "/" for ::1 at 2020-09-06 20:58:37 +0900
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.haml within layouts/application
+  Rendered messages/_top.html.haml (Duration: 0.1ms | Allocations: 11)
+  Rendered messages/_side.html.haml (Duration: 0.1ms | Allocations: 9)
+  Rendered messages/_main.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_under.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/index.html.haml within layouts/application (Duration: 0.9ms | Allocations: 323)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 37ms (Views: 35.9ms | ActiveRecord: 0.0ms | Allocations: 11154)
+
+
+Started GET "/" for ::1 at 2020-09-06 20:58:37 +0900
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.haml within layouts/application
+  Rendered messages/_top.html.haml (Duration: 0.1ms | Allocations: 11)
+  Rendered messages/_side.html.haml (Duration: 0.1ms | Allocations: 9)
+  Rendered messages/_main.html.haml (Duration: 0.1ms | Allocations: 9)
+  Rendered messages/_under.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/index.html.haml within layouts/application (Duration: 1.2ms | Allocations: 322)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 17ms (Views: 15.7ms | ActiveRecord: 0.0ms | Allocations: 11134)
+
+
+Started GET "/" for ::1 at 2020-09-06 20:58:38 +0900
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.haml within layouts/application
+  Rendered messages/_top.html.haml (Duration: 0.1ms | Allocations: 11)
+  Rendered messages/_side.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_main.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_under.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/index.html.haml within layouts/application (Duration: 1.1ms | Allocations: 322)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 17ms (Views: 16.0ms | ActiveRecord: 0.0ms | Allocations: 11134)
+
+
+Started GET "/" for ::1 at 2020-09-06 20:58:38 +0900
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.haml within layouts/application
+  Rendered messages/_top.html.haml (Duration: 0.1ms | Allocations: 11)
+  Rendered messages/_side.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_main.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_under.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/index.html.haml within layouts/application (Duration: 0.8ms | Allocations: 322)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 15ms (Views: 14.5ms | ActiveRecord: 0.0ms | Allocations: 11134)
+
+
+Started GET "/" for ::1 at 2020-09-06 20:58:38 +0900
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.haml within layouts/application
+  Rendered messages/_top.html.haml (Duration: 0.1ms | Allocations: 11)
+  Rendered messages/_side.html.haml (Duration: 0.2ms | Allocations: 9)
+  Rendered messages/_main.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_under.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/index.html.haml within layouts/application (Duration: 1.6ms | Allocations: 322)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 18ms (Views: 16.6ms | ActiveRecord: 0.0ms | Allocations: 11132)
+
+
+Started GET "/" for ::1 at 2020-09-06 20:58:38 +0900
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.haml within layouts/application
+  Rendered messages/_top.html.haml (Duration: 0.1ms | Allocations: 11)
+  Rendered messages/_side.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_main.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_under.html.haml (Duration: 0.1ms | Allocations: 9)
+  Rendered messages/index.html.haml within layouts/application (Duration: 0.9ms | Allocations: 322)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 16ms (Views: 14.9ms | ActiveRecord: 0.0ms | Allocations: 11154)
+
+
+Started GET "/" for ::1 at 2020-09-06 20:59:03 +0900
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.haml within layouts/application
+  Rendered messages/_top.html.haml (Duration: 3.3ms | Allocations: 2184)
+  Rendered messages/_side.html.haml (Duration: 2.2ms | Allocations: 1352)
+  Rendered messages/_main.html.haml (Duration: 2.6ms | Allocations: 1351)
+  Rendered messages/_under.html.haml (Duration: 2.2ms | Allocations: 1351)
+  Rendered messages/index.html.haml within layouts/application (Duration: 16.8ms | Allocations: 8926)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 38ms (Views: 36.8ms | ActiveRecord: 0.0ms | Allocations: 22734)
+
+
+Started GET "/" for ::1 at 2020-09-06 20:59:04 +0900
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.haml within layouts/application
+  Rendered messages/_top.html.haml (Duration: 0.1ms | Allocations: 11)
+  Rendered messages/_side.html.haml (Duration: 0.1ms | Allocations: 9)
+  Rendered messages/_main.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_under.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/index.html.haml within layouts/application (Duration: 1.2ms | Allocations: 322)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 18ms (Views: 16.8ms | ActiveRecord: 0.0ms | Allocations: 11145)
+
+
+Started GET "/" for ::1 at 2020-09-06 20:59:04 +0900
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.haml within layouts/application
+  Rendered messages/_top.html.haml (Duration: 0.1ms | Allocations: 11)
+  Rendered messages/_side.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_main.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_under.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/index.html.haml within layouts/application (Duration: 0.9ms | Allocations: 322)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 15ms (Views: 14.1ms | ActiveRecord: 0.0ms | Allocations: 11132)
+
+
+Started GET "/" for ::1 at 2020-09-06 20:59:04 +0900
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.haml within layouts/application
+  Rendered messages/_top.html.haml (Duration: 0.1ms | Allocations: 11)
+  Rendered messages/_side.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_main.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_under.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/index.html.haml within layouts/application (Duration: 1.0ms | Allocations: 322)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 15ms (Views: 14.6ms | ActiveRecord: 0.0ms | Allocations: 11134)
+
+
+Started GET "/" for ::1 at 2020-09-06 20:59:04 +0900
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.haml within layouts/application
+  Rendered messages/_top.html.haml (Duration: 0.1ms | Allocations: 11)
+  Rendered messages/_side.html.haml (Duration: 0.2ms | Allocations: 9)
+  Rendered messages/_main.html.haml (Duration: 0.1ms | Allocations: 9)
+  Rendered messages/_under.html.haml (Duration: 0.1ms | Allocations: 9)
+  Rendered messages/index.html.haml within layouts/application (Duration: 1.8ms | Allocations: 322)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 18ms (Views: 16.8ms | ActiveRecord: 0.0ms | Allocations: 11142)
+
+
+Started GET "/" for ::1 at 2020-09-06 20:59:04 +0900
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.haml within layouts/application
+  Rendered messages/_top.html.haml (Duration: 0.1ms | Allocations: 11)
+  Rendered messages/_side.html.haml (Duration: 0.1ms | Allocations: 9)
+  Rendered messages/_main.html.haml (Duration: 0.1ms | Allocations: 9)
+  Rendered messages/_under.html.haml (Duration: 0.1ms | Allocations: 9)
+  Rendered messages/index.html.haml within layouts/application (Duration: 1.4ms | Allocations: 322)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 15ms (Views: 14.4ms | ActiveRecord: 0.0ms | Allocations: 11146)
+
+
+Started GET "/" for ::1 at 2020-09-06 20:59:04 +0900
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.haml within layouts/application
+  Rendered messages/_top.html.haml (Duration: 0.1ms | Allocations: 11)
+  Rendered messages/_side.html.haml (Duration: 0.1ms | Allocations: 9)
+  Rendered messages/_main.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_under.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/index.html.haml within layouts/application (Duration: 0.9ms | Allocations: 322)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 15ms (Views: 13.9ms | ActiveRecord: 0.0ms | Allocations: 11140)
+
+
+Started GET "/" for ::1 at 2020-09-06 20:59:20 +0900
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.haml within layouts/application
+  Rendered messages/_top.html.haml (Duration: 2.5ms | Allocations: 2184)
+  Rendered messages/_side.html.haml (Duration: 1.9ms | Allocations: 1352)
+  Rendered messages/_main.html.haml (Duration: 1.9ms | Allocations: 1351)
+  Rendered messages/_under.html.haml (Duration: 1.4ms | Allocations: 1351)
+  Rendered messages/index.html.haml within layouts/application (Duration: 13.2ms | Allocations: 8926)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 32ms (Views: 29.5ms | ActiveRecord: 0.0ms | Allocations: 22740)
+
+
+Started GET "/" for ::1 at 2020-09-06 20:59:21 +0900
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.haml within layouts/application
+  Rendered messages/_top.html.haml (Duration: 0.1ms | Allocations: 11)
+  Rendered messages/_side.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_main.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_under.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/index.html.haml within layouts/application (Duration: 1.0ms | Allocations: 322)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 16ms (Views: 15.3ms | ActiveRecord: 0.0ms | Allocations: 11147)
+
+
+Started GET "/" for ::1 at 2020-09-06 20:59:21 +0900
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.haml within layouts/application
+  Rendered messages/_top.html.haml (Duration: 0.0ms | Allocations: 11)
+  Rendered messages/_side.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_main.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_under.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/index.html.haml within layouts/application (Duration: 1.0ms | Allocations: 322)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 15ms (Views: 14.1ms | ActiveRecord: 0.0ms | Allocations: 11136)
+
+
+Started GET "/" for ::1 at 2020-09-06 20:59:21 +0900
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.haml within layouts/application
+  Rendered messages/_top.html.haml (Duration: 0.0ms | Allocations: 11)
+  Rendered messages/_side.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_main.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_under.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/index.html.haml within layouts/application (Duration: 0.7ms | Allocations: 322)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 14ms (Views: 13.1ms | ActiveRecord: 0.0ms | Allocations: 11135)
+
+
+Started GET "/" for ::1 at 2020-09-06 20:59:45 +0900
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.haml within layouts/application
+  Rendered messages/_top.html.haml (Duration: 20.6ms | Allocations: 2278)
+  Rendered messages/_side.html.haml (Duration: 1.9ms | Allocations: 1353)
+  Rendered messages/_main.html.haml (Duration: 2.5ms | Allocations: 1351)
+  Rendered messages/_under.html.haml (Duration: 1.5ms | Allocations: 1351)
+  Rendered messages/index.html.haml within layouts/application (Duration: 32.3ms | Allocations: 9009)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 51ms (Views: 49.8ms | ActiveRecord: 0.0ms | Allocations: 22827)
+
+
+Started GET "/" for ::1 at 2020-09-06 20:59:46 +0900
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.haml within layouts/application
+  Rendered messages/_top.html.haml (Duration: 0.1ms | Allocations: 11)
+  Rendered messages/_side.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_main.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_under.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/index.html.haml within layouts/application (Duration: 1.0ms | Allocations: 322)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 17ms (Views: 16.0ms | ActiveRecord: 0.0ms | Allocations: 11143)
+
+
+Started GET "/" for ::1 at 2020-09-06 20:59:46 +0900
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.haml within layouts/application
+  Rendered messages/_top.html.haml (Duration: 0.1ms | Allocations: 11)
+  Rendered messages/_side.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_main.html.haml (Duration: 0.1ms | Allocations: 9)
+  Rendered messages/_under.html.haml (Duration: 0.1ms | Allocations: 9)
+  Rendered messages/index.html.haml within layouts/application (Duration: 1.3ms | Allocations: 322)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 18ms (Views: 16.7ms | ActiveRecord: 0.0ms | Allocations: 11130)
+
+
+Started GET "/" for ::1 at 2020-09-06 20:59:46 +0900
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.haml within layouts/application
+  Rendered messages/_top.html.haml (Duration: 0.1ms | Allocations: 11)
+  Rendered messages/_side.html.haml (Duration: 0.2ms | Allocations: 9)
+  Rendered messages/_main.html.haml (Duration: 0.1ms | Allocations: 9)
+  Rendered messages/_under.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/index.html.haml within layouts/application (Duration: 1.3ms | Allocations: 322)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 15ms (Views: 14.3ms | ActiveRecord: 0.0ms | Allocations: 11136)
+
+
+Started GET "/" for ::1 at 2020-09-06 21:01:04 +0900
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.haml within layouts/application
+  Rendered messages/_top.html.haml (Duration: 0.1ms | Allocations: 11)
+  Rendered messages/_side.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_main.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_under.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/index.html.haml within layouts/application (Duration: 0.8ms | Allocations: 322)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 24ms (Views: 22.9ms | ActiveRecord: 0.0ms | Allocations: 11138)
+
+
+Started GET "/" for ::1 at 2020-09-06 21:01:04 +0900
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.haml within layouts/application
+  Rendered messages/_top.html.haml (Duration: 0.1ms | Allocations: 11)
+  Rendered messages/_side.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_main.html.haml (Duration: 0.1ms | Allocations: 9)
+  Rendered messages/_under.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/index.html.haml within layouts/application (Duration: 1.0ms | Allocations: 322)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 17ms (Views: 15.7ms | ActiveRecord: 0.0ms | Allocations: 11147)
+
+
+Started GET "/" for ::1 at 2020-09-06 21:01:05 +0900
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.haml within layouts/application
+  Rendered messages/_top.html.haml (Duration: 0.1ms | Allocations: 11)
+  Rendered messages/_side.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_main.html.haml (Duration: 0.2ms | Allocations: 9)
+  Rendered messages/_under.html.haml (Duration: 0.1ms | Allocations: 9)
+  Rendered messages/index.html.haml within layouts/application (Duration: 1.3ms | Allocations: 322)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 20ms (Views: 18.9ms | ActiveRecord: 0.0ms | Allocations: 11140)
+
+
+Started GET "/" for ::1 at 2020-09-06 21:01:05 +0900
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.haml within layouts/application
+  Rendered messages/_top.html.haml (Duration: 0.1ms | Allocations: 11)
+  Rendered messages/_side.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_main.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_under.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/index.html.haml within layouts/application (Duration: 0.7ms | Allocations: 322)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 15ms (Views: 14.1ms | ActiveRecord: 0.0ms | Allocations: 11146)
+
+
+Started GET "/" for ::1 at 2020-09-06 21:01:05 +0900
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.haml within layouts/application
+  Rendered messages/_top.html.haml (Duration: 0.1ms | Allocations: 11)
+  Rendered messages/_side.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_main.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_under.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/index.html.haml within layouts/application (Duration: 0.8ms | Allocations: 322)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 15ms (Views: 14.3ms | ActiveRecord: 0.0ms | Allocations: 11128)
+
+
+Started GET "/" for ::1 at 2020-09-06 21:01:05 +0900
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.haml within layouts/application
+  Rendered messages/_top.html.haml (Duration: 0.1ms | Allocations: 11)
+  Rendered messages/_side.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_main.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_under.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/index.html.haml within layouts/application (Duration: 0.8ms | Allocations: 322)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 16ms (Views: 15.3ms | ActiveRecord: 0.0ms | Allocations: 11160)
+
+
+Started GET "/" for ::1 at 2020-09-06 21:01:05 +0900
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.haml within layouts/application
+  Rendered messages/_top.html.haml (Duration: 0.1ms | Allocations: 11)
+  Rendered messages/_side.html.haml (Duration: 0.1ms | Allocations: 9)
+  Rendered messages/_main.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_under.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/index.html.haml within layouts/application (Duration: 1.2ms | Allocations: 322)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 16ms (Views: 14.9ms | ActiveRecord: 0.0ms | Allocations: 11130)
+
+
+Started GET "/" for ::1 at 2020-09-06 21:01:06 +0900
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.haml within layouts/application
+  Rendered messages/_top.html.haml (Duration: 0.1ms | Allocations: 11)
+  Rendered messages/_side.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_main.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_under.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/index.html.haml within layouts/application (Duration: 0.9ms | Allocations: 322)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 15ms (Views: 14.2ms | ActiveRecord: 0.0ms | Allocations: 11132)
+
+
+Started GET "/" for ::1 at 2020-09-06 21:01:06 +0900
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.haml within layouts/application
+  Rendered messages/_top.html.haml (Duration: 0.1ms | Allocations: 11)
+  Rendered messages/_side.html.haml (Duration: 0.1ms | Allocations: 9)
+  Rendered messages/_main.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_under.html.haml (Duration: 0.1ms | Allocations: 9)
+  Rendered messages/index.html.haml within layouts/application (Duration: 1.0ms | Allocations: 322)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 17ms (Views: 16.2ms | ActiveRecord: 0.0ms | Allocations: 11144)
+
+
+Started GET "/" for ::1 at 2020-09-06 21:01:06 +0900
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.haml within layouts/application
+  Rendered messages/_top.html.haml (Duration: 0.1ms | Allocations: 11)
+  Rendered messages/_side.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_main.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_under.html.haml (Duration: 0.1ms | Allocations: 9)
+  Rendered messages/index.html.haml within layouts/application (Duration: 1.0ms | Allocations: 322)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 16ms (Views: 14.6ms | ActiveRecord: 0.0ms | Allocations: 11128)
+
+
+Started GET "/" for ::1 at 2020-09-06 21:01:06 +0900
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.haml within layouts/application
+  Rendered messages/_top.html.haml (Duration: 0.1ms | Allocations: 11)
+  Rendered messages/_side.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_main.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_under.html.haml (Duration: 0.1ms | Allocations: 9)
+  Rendered messages/index.html.haml within layouts/application (Duration: 0.9ms | Allocations: 322)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 15ms (Views: 14.5ms | ActiveRecord: 0.0ms | Allocations: 11128)
+
+
+Started GET "/" for ::1 at 2020-09-06 21:01:17 +0900
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.haml within layouts/application
+  Rendered messages/_top.html.haml (Duration: 0.1ms | Allocations: 11)
+  Rendered messages/_side.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_main.html.haml (Duration: 0.1ms | Allocations: 9)
+  Rendered messages/_under.html.haml (Duration: 0.1ms | Allocations: 9)
+  Rendered messages/index.html.haml within layouts/application (Duration: 1.1ms | Allocations: 322)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 17ms (Views: 15.6ms | ActiveRecord: 0.0ms | Allocations: 11140)
+
+
+Started GET "/" for ::1 at 2020-09-06 21:01:18 +0900
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.haml within layouts/application
+  Rendered messages/_top.html.haml (Duration: 0.1ms | Allocations: 11)
+  Rendered messages/_side.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_main.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_under.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/index.html.haml within layouts/application (Duration: 0.9ms | Allocations: 322)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 17ms (Views: 16.1ms | ActiveRecord: 0.0ms | Allocations: 11138)
+
+
+Started GET "/" for ::1 at 2020-09-06 21:01:18 +0900
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.haml within layouts/application
+  Rendered messages/_top.html.haml (Duration: 0.1ms | Allocations: 11)
+  Rendered messages/_side.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_main.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_under.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/index.html.haml within layouts/application (Duration: 0.9ms | Allocations: 322)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 16ms (Views: 15.2ms | ActiveRecord: 0.0ms | Allocations: 11140)
+
+
+Started GET "/" for ::1 at 2020-09-06 21:01:18 +0900
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.haml within layouts/application
+  Rendered messages/_top.html.haml (Duration: 0.1ms | Allocations: 11)
+  Rendered messages/_side.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_main.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_under.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/index.html.haml within layouts/application (Duration: 0.8ms | Allocations: 322)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 35ms (Views: 33.9ms | ActiveRecord: 0.0ms | Allocations: 11130)
+
+
+Started GET "/" for ::1 at 2020-09-06 21:02:21 +0900
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.haml within layouts/application
+  Rendered messages/_top.html.haml (Duration: 0.1ms | Allocations: 11)
+  Rendered messages/_side.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_main.html.haml (Duration: 0.1ms | Allocations: 9)
+  Rendered messages/_under.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/index.html.haml within layouts/application (Duration: 1.0ms | Allocations: 322)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 25ms (Views: 24.2ms | ActiveRecord: 0.0ms | Allocations: 11142)
+
+
+Started GET "/" for ::1 at 2020-09-06 21:02:21 +0900
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.haml within layouts/application
+  Rendered messages/_top.html.haml (Duration: 0.1ms | Allocations: 11)
+  Rendered messages/_side.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_main.html.haml (Duration: 0.1ms | Allocations: 9)
+  Rendered messages/_under.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/index.html.haml within layouts/application (Duration: 1.0ms | Allocations: 322)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 17ms (Views: 15.5ms | ActiveRecord: 0.0ms | Allocations: 11136)
+
+
+Started GET "/" for ::1 at 2020-09-06 21:02:21 +0900
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.haml within layouts/application
+  Rendered messages/_top.html.haml (Duration: 0.1ms | Allocations: 11)
+  Rendered messages/_side.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_main.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_under.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/index.html.haml within layouts/application (Duration: 0.8ms | Allocations: 322)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 15ms (Views: 14.3ms | ActiveRecord: 0.0ms | Allocations: 11152)
+
+
+Started GET "/" for ::1 at 2020-09-06 21:02:21 +0900
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.haml within layouts/application
+  Rendered messages/_top.html.haml (Duration: 0.1ms | Allocations: 11)
+  Rendered messages/_side.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_main.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_under.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/index.html.haml within layouts/application (Duration: 1.0ms | Allocations: 322)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 17ms (Views: 16.0ms | ActiveRecord: 0.0ms | Allocations: 11130)
+
+
+Started GET "/" for ::1 at 2020-09-06 21:02:21 +0900
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.haml within layouts/application
+  Rendered messages/_top.html.haml (Duration: 0.0ms | Allocations: 11)
+  Rendered messages/_side.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_main.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_under.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/index.html.haml within layouts/application (Duration: 0.8ms | Allocations: 322)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 15ms (Views: 14.4ms | ActiveRecord: 0.0ms | Allocations: 11140)
+
+
+Started GET "/" for ::1 at 2020-09-06 21:02:22 +0900
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.haml within layouts/application
+  Rendered messages/_top.html.haml (Duration: 0.0ms | Allocations: 11)
+  Rendered messages/_side.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_main.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_under.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/index.html.haml within layouts/application (Duration: 0.7ms | Allocations: 322)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 18ms (Views: 17.3ms | ActiveRecord: 0.0ms | Allocations: 11148)
+
+
+Started GET "/" for ::1 at 2020-09-06 21:02:22 +0900
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.haml within layouts/application
+  Rendered messages/_top.html.haml (Duration: 0.1ms | Allocations: 11)
+  Rendered messages/_side.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_main.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_under.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/index.html.haml within layouts/application (Duration: 0.8ms | Allocations: 322)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 16ms (Views: 15.5ms | ActiveRecord: 0.0ms | Allocations: 11144)
+
+
+Started GET "/" for ::1 at 2020-09-06 21:02:37 +0900
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.haml within layouts/application
+  Rendered messages/_top.html.haml (Duration: 0.1ms | Allocations: 11)
+  Rendered messages/_side.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_main.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_under.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/index.html.haml within layouts/application (Duration: 0.9ms | Allocations: 322)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 17ms (Views: 16.4ms | ActiveRecord: 0.0ms | Allocations: 11138)
+
+
+Started GET "/" for ::1 at 2020-09-06 21:02:37 +0900
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.haml within layouts/application
+  Rendered messages/_top.html.haml (Duration: 0.1ms | Allocations: 11)
+  Rendered messages/_side.html.haml (Duration: 0.1ms | Allocations: 9)
+  Rendered messages/_main.html.haml (Duration: 0.1ms | Allocations: 9)
+  Rendered messages/_under.html.haml (Duration: 0.1ms | Allocations: 9)
+  Rendered messages/index.html.haml within layouts/application (Duration: 1.4ms | Allocations: 322)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 39ms (Views: 37.9ms | ActiveRecord: 0.0ms | Allocations: 11143)
+
+
+Started GET "/" for ::1 at 2020-09-06 21:02:37 +0900
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.haml within layouts/application
+  Rendered messages/_top.html.haml (Duration: 0.0ms | Allocations: 11)
+  Rendered messages/_side.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_main.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_under.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/index.html.haml within layouts/application (Duration: 0.9ms | Allocations: 322)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 19ms (Views: 17.9ms | ActiveRecord: 0.0ms | Allocations: 11143)
+
+
+Started GET "/" for ::1 at 2020-09-06 21:02:38 +0900
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.haml within layouts/application
+  Rendered messages/_top.html.haml (Duration: 0.1ms | Allocations: 11)
+  Rendered messages/_side.html.haml (Duration: 0.1ms | Allocations: 9)
+  Rendered messages/_main.html.haml (Duration: 0.1ms | Allocations: 9)
+  Rendered messages/_under.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/index.html.haml within layouts/application (Duration: 1.0ms | Allocations: 322)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 16ms (Views: 15.2ms | ActiveRecord: 0.0ms | Allocations: 11142)
+
+
+Started GET "/" for ::1 at 2020-09-06 21:02:38 +0900
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.haml within layouts/application
+  Rendered messages/_top.html.haml (Duration: 0.0ms | Allocations: 11)
+  Rendered messages/_side.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_main.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_under.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/index.html.haml within layouts/application (Duration: 0.7ms | Allocations: 322)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 16ms (Views: 15.6ms | ActiveRecord: 0.0ms | Allocations: 11146)
+
+
+Started GET "/" for ::1 at 2020-09-06 21:02:38 +0900
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.haml within layouts/application
+  Rendered messages/_top.html.haml (Duration: 0.1ms | Allocations: 11)
+  Rendered messages/_side.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_main.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_under.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/index.html.haml within layouts/application (Duration: 0.7ms | Allocations: 322)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 14ms (Views: 13.6ms | ActiveRecord: 0.0ms | Allocations: 11148)
+
+
+Started GET "/" for ::1 at 2020-09-06 21:02:38 +0900
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.haml within layouts/application
+  Rendered messages/_top.html.haml (Duration: 0.1ms | Allocations: 11)
+  Rendered messages/_side.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_main.html.haml (Duration: 0.1ms | Allocations: 9)
+  Rendered messages/_under.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/index.html.haml within layouts/application (Duration: 0.8ms | Allocations: 322)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 14ms (Views: 13.0ms | ActiveRecord: 0.0ms | Allocations: 11142)
+
+
+Started GET "/" for ::1 at 2020-09-06 21:02:38 +0900
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.haml within layouts/application
+  Rendered messages/_top.html.haml (Duration: 0.0ms | Allocations: 11)
+  Rendered messages/_side.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_main.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_under.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/index.html.haml within layouts/application (Duration: 0.7ms | Allocations: 322)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 15ms (Views: 14.2ms | ActiveRecord: 0.0ms | Allocations: 11136)
+
+
+Started GET "/" for ::1 at 2020-09-06 21:02:38 +0900
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.haml within layouts/application
+  Rendered messages/_top.html.haml (Duration: 0.0ms | Allocations: 11)
+  Rendered messages/_side.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_main.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_under.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/index.html.haml within layouts/application (Duration: 0.7ms | Allocations: 322)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 16ms (Views: 15.6ms | ActiveRecord: 0.0ms | Allocations: 11136)
+
+
+Started GET "/" for ::1 at 2020-09-06 21:02:38 +0900
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.haml within layouts/application
+  Rendered messages/_top.html.haml (Duration: 0.0ms | Allocations: 11)
+  Rendered messages/_side.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_main.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_under.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/index.html.haml within layouts/application (Duration: 0.7ms | Allocations: 322)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 15ms (Views: 14.1ms | ActiveRecord: 0.0ms | Allocations: 11136)
+
+
+Started GET "/" for ::1 at 2020-09-06 21:04:10 +0900
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.haml within layouts/application
+  Rendered messages/_top.html.haml (Duration: 0.1ms | Allocations: 11)
+  Rendered messages/_side.html.haml (Duration: 0.1ms | Allocations: 9)
+  Rendered messages/_main.html.haml (Duration: 0.1ms | Allocations: 9)
+  Rendered messages/_under.html.haml (Duration: 0.1ms | Allocations: 9)
+  Rendered messages/index.html.haml within layouts/application (Duration: 1.4ms | Allocations: 322)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 882ms (Views: 881.0ms | ActiveRecord: 0.0ms | Allocations: 488529)
+
+
+Started GET "/" for ::1 at 2020-09-06 21:04:50 +0900
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.haml within layouts/application
+  Rendered messages/_top.html.haml (Duration: 0.1ms | Allocations: 11)
+  Rendered messages/_side.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_main.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_under.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/index.html.haml within layouts/application (Duration: 0.8ms | Allocations: 322)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 725ms (Views: 724.0ms | ActiveRecord: 0.0ms | Allocations: 491689)
+
+
+Started GET "/" for ::1 at 2020-09-06 21:04:59 +0900
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.haml within layouts/application
+  Rendered messages/_top.html.haml (Duration: 0.1ms | Allocations: 11)
+  Rendered messages/_side.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_main.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_under.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/index.html.haml within layouts/application (Duration: 0.8ms | Allocations: 322)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 562ms (Views: 561.2ms | ActiveRecord: 0.0ms | Allocations: 492929)
+
+
+Started GET "/" for ::1 at 2020-09-06 21:05:07 +0900
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.haml within layouts/application
+  Rendered messages/_top.html.haml (Duration: 0.1ms | Allocations: 11)
+  Rendered messages/_side.html.haml (Duration: 0.1ms | Allocations: 9)
+  Rendered messages/_main.html.haml (Duration: 0.1ms | Allocations: 9)
+  Rendered messages/_under.html.haml (Duration: 0.1ms | Allocations: 9)
+  Rendered messages/index.html.haml within layouts/application (Duration: 1.4ms | Allocations: 322)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 525ms (Views: 524.2ms | ActiveRecord: 0.0ms | Allocations: 494977)
+
+
+Started GET "/" for ::1 at 2020-09-06 21:42:44 +0900
+  [1m[35m (0.3ms)[0m  [1m[35mSET NAMES utf8,  @@SESSION.sql_mode = CONCAT(CONCAT(@@sql_mode, ',STRICT_ALL_TABLES'), ',NO_AUTO_VALUE_ON_ZERO'),  @@SESSION.sql_auto_is_null = 0, @@SESSION.wait_timeout = 2147483[0m
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.haml within layouts/application
+  Rendered messages/_top.html.haml (Duration: 2.5ms | Allocations: 2715)
+  Rendered messages/_side.html.haml (Duration: 2.9ms | Allocations: 1352)
+  Rendered messages/_main.html.haml (Duration: 2.0ms | Allocations: 1351)
+  Rendered messages/_under.html.haml (Duration: 2.6ms | Allocations: 1351)
+  Rendered messages/index.html.haml within layouts/application (Duration: 16.7ms | Allocations: 9459)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 782ms (Views: 778.9ms | ActiveRecord: 0.0ms | Allocations: 507821)
+
+
+Started GET "/" for ::1 at 2020-09-06 21:43:03 +0900
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.haml within layouts/application
+  Rendered messages/_top.html.haml (Duration: 0.0ms | Allocations: 11)
+  Rendered messages/_side.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_main.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_under.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/index.html.haml within layouts/application (Duration: 0.8ms | Allocations: 322)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 584ms (Views: 583.5ms | ActiveRecord: 0.0ms | Allocations: 496076)
+
+
+Started GET "/" for ::1 at 2020-09-06 21:44:12 +0900
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.haml within layouts/application
+  Rendered messages/_top.html.haml (Duration: 0.1ms | Allocations: 11)
+  Rendered messages/_side.html.haml (Duration: 0.1ms | Allocations: 9)
+  Rendered messages/_main.html.haml (Duration: 0.1ms | Allocations: 9)
+  Rendered messages/_under.html.haml (Duration: 0.1ms | Allocations: 9)
+  Rendered messages/index.html.haml within layouts/application (Duration: 1.3ms | Allocations: 322)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 591ms (Views: 589.9ms | ActiveRecord: 0.0ms | Allocations: 496217)
+
+
+Started GET "/" for ::1 at 2020-09-06 21:44:33 +0900
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.haml within layouts/application
+  Rendered messages/_top.html.haml (Duration: 0.1ms | Allocations: 11)
+  Rendered messages/_side.html.haml (Duration: 0.1ms | Allocations: 9)
+  Rendered messages/_main.html.haml (Duration: 0.1ms | Allocations: 9)
+  Rendered messages/_under.html.haml (Duration: 0.1ms | Allocations: 9)
+  Rendered messages/index.html.haml within layouts/application (Duration: 1.3ms | Allocations: 322)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 539ms (Views: 538.6ms | ActiveRecord: 0.0ms | Allocations: 496613)
+
+
+Started GET "/" for ::1 at 2020-09-06 21:44:39 +0900
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.haml within layouts/application
+  Rendered messages/_top.html.haml (Duration: 0.1ms | Allocations: 11)
+  Rendered messages/_side.html.haml (Duration: 0.1ms | Allocations: 9)
+  Rendered messages/_main.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_under.html.haml (Duration: 0.1ms | Allocations: 9)
+  Rendered messages/index.html.haml within layouts/application (Duration: 1.2ms | Allocations: 322)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 44ms (Views: 43.4ms | ActiveRecord: 0.0ms | Allocations: 12193)
+
+
+Started GET "/" for ::1 at 2020-09-06 21:46:30 +0900
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.haml within layouts/application
+  Rendered messages/_top.html.haml (Duration: 0.1ms | Allocations: 11)
+  Rendered messages/_side.html.haml (Duration: 0.1ms | Allocations: 9)
+  Rendered messages/_main.html.haml (Duration: 0.1ms | Allocations: 9)
+  Rendered messages/_under.html.haml (Duration: 0.1ms | Allocations: 9)
+  Rendered messages/index.html.haml within layouts/application (Duration: 1.2ms | Allocations: 322)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 680ms (Views: 679.3ms | ActiveRecord: 0.0ms | Allocations: 497353)
+
+
+Started GET "/" for ::1 at 2020-09-06 21:46:44 +0900
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.haml within layouts/application
+  Rendered messages/_top.html.haml (Duration: 0.1ms | Allocations: 11)
+  Rendered messages/_side.html.haml (Duration: 0.1ms | Allocations: 9)
+  Rendered messages/_main.html.haml (Duration: 0.1ms | Allocations: 9)
+  Rendered messages/_under.html.haml (Duration: 0.1ms | Allocations: 9)
+  Rendered messages/index.html.haml within layouts/application (Duration: 1.5ms | Allocations: 322)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 661ms (Views: 660.2ms | ActiveRecord: 0.0ms | Allocations: 497389)
+
+
+Started GET "/" for ::1 at 2020-09-06 21:51:29 +0900
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.haml within layouts/application
+  Rendered messages/_top.html.haml (Duration: 0.1ms | Allocations: 11)
+  Rendered messages/_side.html.haml (Duration: 0.4ms | Allocations: 9)
+  Rendered messages/_main.html.haml (Duration: 0.1ms | Allocations: 9)
+  Rendered messages/_under.html.haml (Duration: 0.1ms | Allocations: 9)
+  Rendered messages/index.html.haml within layouts/application (Duration: 2.0ms | Allocations: 322)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 782ms (Views: 780.6ms | ActiveRecord: 0.0ms | Allocations: 496679)
+
+
+Started GET "/" for ::1 at 2020-09-06 21:53:52 +0900
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.haml within layouts/application
+  Rendered messages/_top.html.haml (Duration: 0.1ms | Allocations: 11)
+  Rendered messages/_side.html.haml (Duration: 0.1ms | Allocations: 9)
+  Rendered messages/_main.html.haml (Duration: 0.1ms | Allocations: 9)
+  Rendered messages/_under.html.haml (Duration: 0.1ms | Allocations: 9)
+  Rendered messages/index.html.haml within layouts/application (Duration: 1.2ms | Allocations: 322)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 688ms (Views: 686.6ms | ActiveRecord: 0.0ms | Allocations: 497281)
+
+
+Started GET "/" for ::1 at 2020-09-06 21:55:33 +0900
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.haml within layouts/application
+  Rendered messages/_top.html.haml (Duration: 0.1ms | Allocations: 11)
+  Rendered messages/_side.html.haml (Duration: 0.1ms | Allocations: 9)
+  Rendered messages/_main.html.haml (Duration: 0.1ms | Allocations: 9)
+  Rendered messages/_under.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/index.html.haml within layouts/application (Duration: 1.3ms | Allocations: 322)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 693ms (Views: 692.0ms | ActiveRecord: 0.0ms | Allocations: 497667)
+
+
+Started GET "/" for ::1 at 2020-09-06 21:56:37 +0900
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.haml within layouts/application
+  Rendered messages/_top.html.haml (Duration: 0.1ms | Allocations: 11)
+  Rendered messages/_side.html.haml (Duration: 0.1ms | Allocations: 9)
+  Rendered messages/_main.html.haml (Duration: 0.1ms | Allocations: 9)
+  Rendered messages/_under.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/index.html.haml within layouts/application (Duration: 1.1ms | Allocations: 322)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 725ms (Views: 723.9ms | ActiveRecord: 0.0ms | Allocations: 496860)
+
+
+Started GET "/" for ::1 at 2020-09-06 21:57:58 +0900
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.haml within layouts/application
+  Rendered messages/_top.html.haml (Duration: 0.1ms | Allocations: 11)
+  Rendered messages/_side.html.haml (Duration: 0.1ms | Allocations: 9)
+  Rendered messages/_main.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_under.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/index.html.haml within layouts/application (Duration: 1.2ms | Allocations: 322)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 708ms (Views: 707.0ms | ActiveRecord: 0.0ms | Allocations: 497146)
+
+
+Started GET "/" for ::1 at 2020-09-06 22:00:54 +0900
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.haml within layouts/application
+  Rendered messages/_top.html.haml (Duration: 0.1ms | Allocations: 11)
+  Rendered messages/_side.html.haml (Duration: 0.1ms | Allocations: 9)
+  Rendered messages/_main.html.haml (Duration: 0.1ms | Allocations: 9)
+  Rendered messages/_under.html.haml (Duration: 0.1ms | Allocations: 9)
+  Rendered messages/index.html.haml within layouts/application (Duration: 1.6ms | Allocations: 322)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 694ms (Views: 693.3ms | ActiveRecord: 0.0ms | Allocations: 497136)
+
+
+Started GET "/" for ::1 at 2020-09-06 22:02:14 +0900
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.haml within layouts/application
+  Rendered messages/_top.html.haml (Duration: 0.1ms | Allocations: 11)
+  Rendered messages/_side.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_main.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_under.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/index.html.haml within layouts/application (Duration: 0.9ms | Allocations: 322)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 687ms (Views: 686.4ms | ActiveRecord: 0.0ms | Allocations: 497699)
+
+
+Started GET "/" for ::1 at 2020-09-06 22:05:58 +0900
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.haml within layouts/application
+  Rendered messages/_top.html.haml (Duration: 0.1ms | Allocations: 11)
+  Rendered messages/_side.html.haml (Duration: 0.1ms | Allocations: 9)
+  Rendered messages/_main.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_under.html.haml (Duration: 0.1ms | Allocations: 9)
+  Rendered messages/index.html.haml within layouts/application (Duration: 1.3ms | Allocations: 322)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 747ms (Views: 746.1ms | ActiveRecord: 0.0ms | Allocations: 498126)
+
+
+Started GET "/" for ::1 at 2020-09-06 22:06:23 +0900
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.haml within layouts/application
+  Rendered messages/_top.html.haml (Duration: 0.1ms | Allocations: 11)
+  Rendered messages/_side.html.haml (Duration: 0.1ms | Allocations: 9)
+  Rendered messages/_main.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_under.html.haml (Duration: 0.1ms | Allocations: 9)
+  Rendered messages/index.html.haml within layouts/application (Duration: 1.5ms | Allocations: 322)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 29ms (Views: 28.2ms | ActiveRecord: 0.0ms | Allocations: 12233)
+
+
+Started GET "/" for ::1 at 2020-09-06 22:09:45 +0900
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.haml within layouts/application
+  Rendered messages/_top.html.haml (Duration: 0.1ms | Allocations: 11)
+  Rendered messages/_side.html.haml (Duration: 0.1ms | Allocations: 9)
+  Rendered messages/_main.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_under.html.haml (Duration: 0.1ms | Allocations: 9)
+  Rendered messages/index.html.haml within layouts/application (Duration: 1.5ms | Allocations: 322)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 802ms (Views: 800.7ms | ActiveRecord: 0.0ms | Allocations: 497271)
+
+
+Started GET "/" for ::1 at 2020-09-06 22:10:19 +0900
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.haml within layouts/application
+  Rendered messages/_top.html.haml (Duration: 0.1ms | Allocations: 11)
+  Rendered messages/_side.html.haml (Duration: 0.1ms | Allocations: 9)
+  Rendered messages/_main.html.haml (Duration: 0.1ms | Allocations: 9)
+  Rendered messages/_under.html.haml (Duration: 0.1ms | Allocations: 9)
+  Rendered messages/index.html.haml within layouts/application (Duration: 2.7ms | Allocations: 322)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 569ms (Views: 567.6ms | ActiveRecord: 0.0ms | Allocations: 497704)
+
+
+Started GET "/" for ::1 at 2020-09-06 22:11:39 +0900
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.haml within layouts/application
+  Rendered messages/_top.html.haml (Duration: 0.1ms | Allocations: 11)
+  Rendered messages/_side.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_main.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/_under.html.haml (Duration: 0.0ms | Allocations: 9)
+  Rendered messages/index.html.haml within layouts/application (Duration: 1.0ms | Allocations: 322)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 671ms (Views: 670.5ms | ActiveRecord: 0.0ms | Allocations: 497843)
+
+
+Started GET "/" for ::1 at 2020-09-06 22:11:49 +0900
+Processing by MessagesController#index as HTML
+  Rendering messages/index.html.haml within layouts/application
+  Rendered messages/_top.html.haml (Duration: 0.1ms | Allocations: 11)
+  Rendered messages/_side.html.haml (Duration: 0.1ms | Allocations: 9)
+  Rendered messages/_main.html.haml (Duration: 0.1ms | Allocations: 9)
+  Rendered messages/_under.html.haml (Duration: 0.1ms | Allocations: 9)
+  Rendered messages/index.html.haml within layouts/application (Duration: 1.4ms | Allocations: 322)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 555ms (Views: 553.9ms | ActiveRecord: 0.0ms | Allocations: 497152)
+
+
