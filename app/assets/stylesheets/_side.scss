@@ -1,0 +1,47 @@
+.side-bar {
+  width: 300px;
+  height: calc(100vh - 300px);
+  background-color: gray;
+
+  &__main{
+    margin: 0  50px;
+    
+
+    .first-list{
+      width: 200px;
+      height: 30px;
+      background-color: gray;
+      font-size: 20px;
+      text-decoration: underline;
+      text-align: center;
+    }
+
+    .first-name__list-name{
+      width: 200px;
+      height: 20px;
+      background-color: gray;
+      margin-top: 10px;
+      font-size: 15px;
+      text-align: center;
+    }
+
+    .second-list{
+      width: 200px;
+      height: 30px;
+      background-color: gray;
+      font-size: 20px;
+      text-decoration: underline;
+      text-align: center;
+      margin-top: 100px;
+    }
+
+    .second-list__list-name{
+      width: 200px;
+      height: 20px;
+      background-color: gray;
+      margin-top: 10px;
+      font-size: 15px;
+      text-align: center;
+    }
+  }
+}
