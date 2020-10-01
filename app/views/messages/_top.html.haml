@@ -1,9 +1,9 @@
 .header
   .header__title
-    %p ToDo
+    %p タスク管理
   .header__navi
-    .header__navi__login
-      %p login
-    .header__navi__contact
-      %p contact
+    .header__navi__edit
+      = link_to edit_user_path(current_user) do
+        %p edit
+        
     

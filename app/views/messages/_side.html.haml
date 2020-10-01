@@ -1,12 +1,12 @@
 .side-bar
   .side-bar__main
     .first-list
-      やりたいこと
-      = icon('fas','plus')
+      カテゴリー
+      = link_to new_category_path(current_user) do
+        = icon('fas','plus')
     .first-name__list-name
-      死ぬまでに
-    .second-list
-      やるべきこと
-      = icon('fas','plus')
-    .second-list__list-name
-      １ヶ月以内
+      - current_user.categories.each do |category|
+        .group-block
+          = link_to category_messages_path(category) do
+            .group-name
+              = category.name
