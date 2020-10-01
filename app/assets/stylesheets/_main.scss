@@ -3,40 +3,33 @@
   .main {
     width: calc(100vw - 300px);
     height: 100px;
-    background-color: green;
-
-    .sub-title{
-      width: 100px;
-      height: 25px;
-      background-color: green;
-      margin-left: 50px;
-    }
-
+    background-color:#DCE5EC; 
+    border-bottom: 1px solid;
     .main-title{
       width: calc(100vw - 300px);
       height: 40px;
-      background-color: green;
+      background-color: #DCE5EC;;
       text-align: center;
+      padding-top: 17.5px;
       font-size: 30px;
-      margin: 17.5px 0;
     }
   }
 
   .main-content {
     height: calc(100vh - 400px);
     width: calc(100vw - 300px);
-    background-color: blue;
+    background-color: #DCE5EC;
     &__list{
       height:50px;
-      background-color: blue;
+      background-color: #DCE5EC;;
       display: flex;
       margin: 0 50px;
       font-size: 40px;
       justify-content:space-between;
       padding: 0 300px;
-      color: #ffffff;;
+      color: black;;
       &__name{
-
+       
       }
 
       &__memo{
@@ -47,19 +40,20 @@
     &__review{
       display: flex;
       height: 80px;
-      background-color: blue;
+      background-color:#DCE5EC; ;
       margin: 30px 50px;
       padding: 0 300px;
       justify-content:space-between;
       font-size: 20px;
-      color: #ffffff;
-      ;
+      color: black;
       .write-list{
-
+        background-color:#DCE5EC;;
+        color: black;
       }
 
       .write-memo{
-
+        background-color:#DCE5EC;
+        color: black;
       }
     }
   }

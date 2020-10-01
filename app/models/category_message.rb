@@ -1,0 +1,3 @@
+class CategoryMessage < ApplicationRecord
+
+end

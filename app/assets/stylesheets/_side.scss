@@ -1,25 +1,28 @@
 .side-bar {
   width: 300px;
   height: calc(100vh - 300px);
-  background-color: gray;
+  background-color: #829AC8;
 
   &__main{
     margin: 0  50px;
-    
+    a{
+      text-decoration: none;
+    }
 
     .first-list{
       width: 200px;
       height: 30px;
-      background-color: gray;
+      background-color: #829AC8;
       font-size: 20px;
       text-decoration: underline;
       text-align: center;
+ 
     }
 
     .first-name__list-name{
       width: 200px;
       height: 20px;
-      background-color: gray;
+      background-color:#829AC8;
       margin-top: 10px;
       font-size: 15px;
       text-align: center;
@@ -43,5 +46,18 @@
       font-size: 15px;
       text-align: center;
     }
+
+    .group-name{
+      width: 200px;
+      height: 20px;
+      background-color:#829AC8;
+      margin-top: 10px;
+      font-size: 15px;
+      text-align: center;
+      a{
+        text-decoration: none;
+      }
+    }
+
   }
 }
