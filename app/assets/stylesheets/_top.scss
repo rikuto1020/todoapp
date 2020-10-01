@@ -1,16 +1,16 @@
 .header {
   width: 100vw;
   height: 200px;
-  background-color: #000000;
+  background-color: #7A8A92;
   display: flex;
 
   &__title{
-    width: 300px;
+    width: 500px;
     height: 100px;
-    background-color: #000000;
+    background-color: #7A8A92;
     margin: 50px 500px ;
     position: absolute;
-    color: #ffffff;
+    color: #77C2B9;
     font-size: 100px;
 
   }
@@ -18,24 +18,18 @@
   &__navi {
     width: 300px;
     height: 30px;
-    background-color: #000000;
+    background-color: #7A8A92;
     position: relative;
     display: flex;
     justify-content: flex-end;
     margin: 0 0 0 auto;
     
-
-    &__login{
-      color: #ffffff;
+    &__edit{
+      color:#77C2B9;
       font-size: 30px;
       padding-right: 30px;
     }
 
-    &__contact{
-      color: #ffffff;
-      font-size: 30px;
-      padding-right: 30px;
-    }
     }
 
   

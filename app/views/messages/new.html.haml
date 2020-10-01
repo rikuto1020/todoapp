@@ -1,0 +1,4 @@
+= form_with model: [@category, @message], url: category_messages_path, local: true do |f|
+  = f.text_field :name, class: "SettingGroupForm__input", placeholder: "list名を入力してください"
+  = f.text_area :memo, class: "SettingGroupForm__input", placeholder: "memoを入力してください"
+  = f.submit "task登録", class: "SettingGroupForm__button"
